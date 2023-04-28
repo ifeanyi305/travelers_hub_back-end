@@ -29,7 +29,7 @@
 
 ## Kanban board <a name="kanban-board"></a>
 
-- You can find the link to the Kanban board is [here](https://github.com/yonas44/travelers_hub_back-end/projects/1)
+- You can find the link to the Kanban board [here](https://github.com/yonas44/travelers_hub_back-end/projects/1)
 - Here is the [link](https://drive.google.com/file/d/1X4q7g6on_dwaV7B-1HnypSo__SrYG1xR/view?usp=sharing) to the initial Kanban board.
 - A team of four collaborated in creating this web application.
 
